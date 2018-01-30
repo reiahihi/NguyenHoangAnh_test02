@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee id="E001">
+        <password>123</password>
+        <name>Obama</name>
+        <age>29</age>
+        <gender>Male</gender>
+        <role>Java Developer</role>
+    </Employee>
+
+    <Employee id="E002">
+        <password>2</password>
+        <name>Maria</name>
+        <age>19465</age>
+        <gender>Female</gender>
+        <role>Manager</role>
+    </Employee>
+
+    
+
+    
+
+</Employees>

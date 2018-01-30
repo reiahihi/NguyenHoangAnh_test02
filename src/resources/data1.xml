@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee>
+        <id>E001</id>
+        <password>123</password>
+        <name>Obama</name>
+        <age>29</age>
+        <gender>Male</gender>
+        <role>Java Developer</role>
+    </Employee>
+
+    <Employee>
+        <id>E002</id>
+        <password>2</password>
+        <name>Maria</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <role>Manager</role>
+    </Employee>
+
+    <Employee>
+        <id>E003</id>
+        <password>3</password>
+        <name>Cantona</name>
+        <age>19</age>
+        <gender>Male</gender>
+        <role>Java developer</role>
+    </Employee>
+
+    <Employee>
+        <id>E004</id>
+        <name>asdf</name>
+        <password>sad</password>
+        <age>233</age>
+        <gender>ehth</gender>
+        <role>trh</role>
+    </Employee>
+</Employees>
